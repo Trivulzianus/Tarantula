@@ -2,7 +2,25 @@
 
 ![SQL Injection Detection](SQLi.png)
 
+> **⚠️ DISCLAIMER: This is a proof of concept and educational tool only.**
+> 
+> This software is provided for educational and research purposes only. The author is not responsible for any misuse or damage caused by this program. Use responsibly and only on systems you own or have explicit permission to test.
+
 Tarantula is an advanced web security scanner that combines automated crawling with AI-powered vulnerability detection. It uses Selenium for dynamic web crawling and OpenAI's GPT models for intelligent vulnerability analysis.
+
+## Important Notice
+
+This tool is:
+- A proof of concept demonstrating AI-powered security scanning
+- Intended for educational purposes only
+- Not intended for production use
+- Not responsible for any unauthorized testing or damage
+
+**By using this tool, you agree that:**
+- You will only use it on systems you own or have explicit permission to test
+- You understand and accept all risks associated with security testing
+- You will not use it for any malicious purposes
+- The author is not liable for any misuse or damage caused by this tool
 
 ## Features
 
